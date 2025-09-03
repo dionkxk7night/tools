@@ -3,7 +3,7 @@
 # 带下载和上传完整校验的 IA 流式上传脚本
 
 ROOT_URL="https://mirrors-obs-2.lolinet.com/firmware/nec/"  # 根 URL
-COLLECTION="$1"                                              # IA collection 名称
+COLLECTION="nec-mobile-devices-firmware-2018-2019"                                              # IA collection 名称
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
