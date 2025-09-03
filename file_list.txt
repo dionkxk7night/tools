@@ -1,0 +1,5 @@
+https://mirrors-obs-2.lolinet.com/firmware/nec/2019/NEC_Lavie_Tab_E8FHD1/LAVIETabE8FHD1_S110008_201225_BMP.zip
+https://mirrors-obs-2.lolinet.com/firmware/nec/2019/NEC_Lavie_Tab_E8HD1/LAVIETabE8HD1_S110007_201225_BMP.zip
+https://mirrors-obs-2.lolinet.com/firmware/nec/2018/NEC_Lavie_Tab_E/PC-TE410JAW/PC-TE410JAW_S230076_200312_ROW.zip
+https://mirrors-obs-2.lolinet.com/firmware/nec/2018/NEC_Lavie_Tab_E/PC-TE508HAW/PC-TE508HAW_S000022_181022.zip
+https://mirrors-obs-2.lolinet.com/firmware/nec/2018/NEC_Lavie_Tab_E/PC-TE510HAW/PC-TE510HAW_S000015_170911.zip
