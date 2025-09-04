@@ -302,10 +302,6 @@ https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_8_Plus/TB-8704V/TB-8
 https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_8_Plus/TB-8704V/TB-8704V_S000045_181122_ROW.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_8_Plus/TB-8704V/TB-8704V_USR_S001026_1906291850_Q1241_SVC.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_8_Plus/TB-8704X/TB-8704X_S001025_190606_ROW.zip
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F/1GB/
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F/1GB/
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F/2GB/
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F/2GB/
 https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F1/TB-X104F1_S000015_191024_EEA.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F1/TB-X104F1_S000017_191216_EEA.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_E10/TB-X104F1/TB-X104F1_S000018_190930_ROW.zip
