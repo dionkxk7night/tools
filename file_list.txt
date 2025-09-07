@@ -1,3 +1,2 @@
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2016/Yoga_Book/YB1-X91/YETI_WIN10_20170906.RS210586_PRO.ISO
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2016/a6020a41/A6020a41_S_USR_S028_1609222000_Q1021101.2_BMAIN_16G_ROW_qpst.7z
-https://mirrors-obs-2.lolinet.com/firmware/lenowow/2019/Tab_8/TB-8505F/TB-8505F_S100057_191010_BMP.7z
+https://mirrors-obs-1.lolinet.com/firmware/nec/2021/NEC_Lavie_Tab_112K1/112K1_S210252_230407_NEC.7z
+https://mirrors-obs-1.lolinet.com/firmware/nec/2021/NEC_Lavie_Tab_11QHD1/11QHD1_S210268_230810_NEC.7z
