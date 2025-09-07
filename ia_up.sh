@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-2.lolinet.com/firmware/lenowow/"
-COLLECTION="lenovo-mobile-devices-firmware-2014-2019"
+ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/nec/"
+COLLECTION="nec-mobile-devices-firmware-2020-2021"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
