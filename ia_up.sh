@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-hmd-1.lolinet.com/firmware/hmd/_obsoleted_/"
-COLLECTION="hmd-mobile-devices-firmware-2018-2020"
+ROOT_URL="https://mirrors-hmd-1.lolinet.com/firmware/hmd"
+COLLECTION="hmd-mobile-devices-firmware-2021-2025"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
