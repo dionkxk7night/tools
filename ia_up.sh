@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/evert/"
-COLLECTION="motolola-mobile-devices-firmware-2018-evert"
+ROOT_URL="https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/nora/"
+COLLECTION="motolola-mobile-devices-firmware-2018-nora"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
