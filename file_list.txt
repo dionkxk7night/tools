@@ -67,8 +67,6 @@ https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/DTEU/XT
 https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/DTEU/XT1920-16_PETTYL_DTEU_E_8.1.0_OPGS28.54-53-8-19_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/DTEU/XT1920-16_PETTYL_DTEU_E_8.1.0_OPGS28.54-53-8-7_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/DTEU/XT1920-16_PETTYL_DTEU_E_8.1.0_OPGS28.54-53-8-9_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/EEGB/EMADA/
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/EEGB/EMADA/
 https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/EEGB/XT1920-15_PETTYL_EEGB_8.1.0_OPG28.54-19_cid50_subsidy-EEGB_regulatory-DEFAULT_CFC.xml.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/EEGB/XT1920-15_PETTYL_EEGB_8.1.0_OPG28.54-53-8_cid50_subsidy-EEGB_regulatory-DEFAULT_CFC.xml.zip
 https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/pettyl/official/EEGB/XT1920-15_PETTYL_EEGB_8.1.0_OPG28.54-53_cid50_subsidy-EEGB_regulatory-DEFAULT_CFC.xml.zip
