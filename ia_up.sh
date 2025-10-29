@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/lake/"
-COLLECTION="motolola-mobile-devices-firmware-2019-lake"
+ROOT_URL="https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/def/"
+COLLECTION="motolola-mobile-devices-firmware-2019-def"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
