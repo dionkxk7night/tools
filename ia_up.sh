@@ -1,7 +1,7 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/"
+ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/kyoto/"
 COLLECTION="motolola-mobile-devices-firmware-2021-kyoto"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
