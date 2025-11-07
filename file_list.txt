@@ -108,10 +108,3 @@ https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar/official/TIMIT/XT
 https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar/official/TIMIT/XT2153-1_PSTAR_RETAIL_13_T1RAS33.55-15-10-6_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip
 https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar/official/VFEU/XT2153-1_PSTAR_VFEU_12_S1RAS32.41-20-16-5-3-4_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
 https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar/official/VFEU/XT2153-1_PSTAR_VFEU_13_T1RAS33.55-15-10-6_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_11_RRAA31.Q3-19-57-1_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_11_RRAA31.Q3-19-69-1_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_11_RRAA31.Q3-19-86_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_12_S1RAA32.54-18_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_12_S1RAA32.54-37-4_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_13_T1RAA33.39-11-11_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/pstar_retcn/official/CMCC/XT2153-1_PSTAR_CMCC_13_T1RAA33.39-11-2_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
