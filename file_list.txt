@@ -1,3 +1,12 @@
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/ocean/official/AMXPE/XT1955-2_OCEAN_AMX_9.0_PPOS29.114-134-13_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/ocean/official/RETAR/XT1955-2_OCEAN_RETAR_9.0_PPOS29.114-134-13_cid50_subsidy-DEFAULT_regulatory-XT1955-2-ARGENTINA_CFC.xml.zip
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/ocean/official/VZW/XT1955-6_OCEAN_VZW_10_QCOS30.85-18-9_cid2_subsidy-VZW_RSU_QCOM_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETCO/XT2029-1_BALI_RETLA_9.0_POAS29.550-132-5_2104_20210407_user_SIGN_LATAM_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-13_2106_20210625_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-18_2108_20210811_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-22_2110_20211015_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-25_2111_20211108_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-2_2012_20201212_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-3_2102_20210204_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/bali/official/RETEU/XT2029-2_BALI_RETEU_9.0_POAS29.550-132-5_2104_20210407_user_SIGN_XT2029-2_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/channel/official/MetroPCS/XT1952-6_CHANNEL_T_MPCS_10_QPYS30.85-18-9-7_cid21_subsidy-MPCS_RSU_QCOM_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/parker/official/RETUS/XT2010-1_PARKER_RETUS_10_QPHS30.29-Q3-28-13-10-10_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/pokerp/official/OPENMX/P160AN_PVT_9.0_LA2_32B_CFC_243.01-01_FLASH_sign_SVC.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2019/surfna/official/Comcast/XT2005-5_SURFNA_COMCAST_9.0_PPBS29.73-81-28_cid50_subsidy-COMCAST_regulatory-DEFAULT_CFC.xml.zip
