@@ -1,3 +1,8 @@
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/deen/official/RETAIL/DEEN_RETAIL_9.0_PPKS29.68-16-21-12_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/deen/official/RETAIL/DEEN_RETAIL_9.0_PPKS29.68-16-34-9_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
-https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/deen/official/RETLA/XT1941-3_DEEN_RETLA_9.0_PPKS29.68-16-34-9_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-4_ALI_RETEU_8.0.0_OPSS27.82-87-8_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-4_ALI_RETEU_9.0_PPSS29.55-37-7-10_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-4_ALI_RETEU_9.0_PPSS29.55-37-7-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-4_ALI_RETEU_9.0_PPSS29.55-37-7-6_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-5_ALI_RETEU_9.0_PPSS29.55-37-7-10_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-5_ALI_RETEU_9.0_PPSS29.55-37-7-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU/XT1925-5_ALI_RETEU_9.0_PPSS29.55-37-7-6_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+https://mirrors-obs-2.lolinet.com/firmware/lenomola/2018/ali/official/RETEU_DE/XT1925-5_ALI_RETEU_DE_9.0_PPSS29.55-37-7-10_cid50_subsidy-DEFAULT_regulatory-XT1925-5_CFC.xml.zip
