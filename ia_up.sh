@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/cofud/"
-COLLECTION="motolola-mobile-devices-firmware-2021-cofud"
+ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/caprip/"
+COLLECTION="motolola-mobile-devices-firmware-2021-caprip"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
