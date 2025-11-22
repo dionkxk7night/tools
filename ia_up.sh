@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/cypfq/"
-COLLECTION="motolola-mobile-devices-firmware-2021-cypfq"
+ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/corfur/"
+COLLECTION="motolola-mobile-devices-firmware-2021-corfur"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
