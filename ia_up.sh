@@ -1,8 +1,8 @@
 #!/bin/bash
 # ia_stream_upload_checked.sh
 
-ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/denver/"
-COLLECTION="motolola-mobile-devices-firmware-2021-denver"
+ROOT_URL="https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/corfu/"
+COLLECTION="motolola-mobile-devices-firmware-2021-corfu"
 LIST_FILE="$HOME/ia_project/file_list.txt"
 LOG_DIR="$HOME/ia_project/logs"
 TMP_DIR="$HOME/ia_project/tmp"
